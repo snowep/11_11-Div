@@ -1,30 +1,27 @@
 ---
-tags:
-  - codex
-  - values
+tags: [codex, values]
 locked: true
 locked_date: 2026-01-20
 ---
 
 # VALUES — LOCKED (enforced)
 
-These are the enforced, operational values that the brand must honor on every public and product decision.
+These are the enforced operational values that guide *what we do* and *what we refuse*.
 
 ## Core values
-- **Restraint** — remove before adding. If in doubt, remove.  
-- **Discipline** — repetition over explanation. Ritual over hype.  
-- **Scarcity by design** — limited runs, reserved variants, and clear edition logic.  
-- **Silence as signal** — withhold explanation as default; allow curiosity to work.
+- **Restraint.** Remove before adding. If you hesitate, remove.  
+- **Discipline.** Repeat the ritual; do not explain it away.  
+- **Scarcity by design.** Editions, reserved variants, and short windows are deliberate tools.  
+- **Silence as signal.** Default is to withhold explanation; the work must invite inquiry.
 
 ## Forbidden actions (immutable)
 1. Paying for followers or gaming hashtag algorithms.  
-2. Explicitly explaining scripture in public brand content.  
-3. Showing product samples before overlay proof *and* a signed physical prototype.
+2. Explicit public explanation of scripture, verse, or religious doctrine in product or marketing communication.  
+3. Publicly showing product samples before overlay proof and dual physical sample sign-off.
 
-## How to use the values
-- Use these as hard filters in briefs and approvals.  
-- If a proposal fails any one of these checks, it is rejected or sent back for revision.
+## Usage
+- Use this file as the first filter in any brief. If an action violates any of these items, the action is vetoed until reassessed in a council cycle.
 
-**See also:** [[01_CODEX/MISSION]] | [[05_DECISIONS/PRODUCTION-SIGNOFF]] | [[03_CONTENT/UGC-POLICY]]
+**See also:** [[01_CODEX/MISSION]] · [[05_DECISIONS/PRODUCTION-SIGNOFF]] · [[03_CONTENT/UGC-POLICY]]
 
-_Signed-off-by: Hiroshi Fujiwara, Simone Weil, Byung-Chul Han — 2026-01-20._
+_Signed-off-by: Council — 2026-01-20._

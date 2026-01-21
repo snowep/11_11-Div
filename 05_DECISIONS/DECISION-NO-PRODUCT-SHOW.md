@@ -1,14 +1,13 @@
 ---
-tags: [decisions, product]
+tags: [decisions, redirect]
+locked: true
+locked_date: 2026-01-20
 ---
 
-# DECISION: NO PRODUCT SHOW — final
+# DECISION: NO PRODUCT SHOW — REDIRECT
 
-**Decision:** No product shots or full-sample reveals until:
-- Master vector exists, AND
-- Overlay proof confirmed, AND
-- Physical sample proof (tee M + card) approved
+The decision not to show product samples publicly is recorded as a locked decision and consolidated into the main index: [[05_DECISIONS/LOCKED-DECISIONS]].
 
-**Rationale:** Protects ritual; avoids early commodification.
+Summary: "Do not publicly display product samples before overlay proof and signed physical sample approval." See full entry in the locked decisions index.
 
-**Exceptions:** Approved PO-only physical prototypes for select ambassadors only (document in [[MERCH-LOGIC]]).
+_Signed-off-by: Council — 2026-01-20._

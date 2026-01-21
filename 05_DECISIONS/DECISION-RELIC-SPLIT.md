@@ -1,18 +1,13 @@
 ---
-tags: [decisions, relic]
+tags: [decisions, redirect]
+locked: true
+locked_date: 2026-01-20
 ---
 
-# DECISION: RELIC SPLIT — final
+# DECISION: RELIC SPLIT — REDIRECT
 
-**Decision:** Upper half on tee; lower half on card. No shard.
+The relic split (upper half → tee; lower half → card) is canonical and fully documented in: [[04_DESIGN/RELIC-SWORD]].
 
-**Rationale (short):**
-- Enforces ritual incompleteness.
-- Creates physical pairing mechanic.
-- Preserves scarcity and story.
+This page acts as a redirect for historical reference.
 
-**Implementation references:**
-- Design rules: [[RELIC-SWORD]]  
-- Production exports: see [[DESIGN-SYSTEM]]
-
-**Signed-off-by:** Council (record kept offline)
+_Signed-off-by: Council — 2026-01-20._

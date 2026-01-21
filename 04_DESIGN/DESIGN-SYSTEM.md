@@ -6,57 +6,58 @@ locked_date: 2026-01-20
 
 # DESIGN SYSTEM — MASTER (includes HERO DESIGN rules)
 
-This is the single source of truth for all visual law. It contains the hero design rules (logo family), export rules, and the production constraints for the relic system.
+This is the single source of truth for all visual law. It contains hero design rules (logo family), export rules, relic production constraints, and typography / layout rules.
 
 ---
 
-## Logo family (HERO DESIGN — locked)
-**Responsive logo family (locked)**  
-1. **Wordmark** — Söhne Breit (Buch) wordmark — primary.  
-2. **Typemark** — condensed 11:11 typemark — secondary.  
-3. **Symbol** — minimal broken halo ring (structural) — tertiary.
+## HERO LOGO FAMILY (LOCKED)
+**Canonical set — do not alter without council cycle**
+1. **Wordmark:** Söhne Breit (Buch) wordmark — primary (exported in SVG & PDF).  
+2. **Typemark:** condensed 11:11 typemark — secondary.  
+3. **Symbol:** minimal broken halo ring — tertiary (structural emblem derived from relic geometry).
 
-**Usage rules**  
-- All three are canonical and must be exported from the same master source file.  
-- Don’t invent new mark variants without a council cycle.  
-- Keep wordmark and typemark ratio consistent across applications.
-
----
-
-## Master vector & export rules
-- **MASTER_FULL**: single-source vector (AI/SVG) of the Relic and logo family. Size: 2000×4000 px vector artboard for relics (metadata: `fracture_baseline_px=1940`).  
-- Layers that must exist: `MASTER_FULL`, `UPPER_EXPORT`, `LOWER_EXPORT`, `SIGIL_LAYER`, `DIAGRAM_LAYER`, `REGISTRATION_MARKS`, `PRINT_SAFE`, `ACCENTS`.  
-- Export formats required for production: AI, SVG, PDF (vector), PNG 300dpi for proofs.
+**Usage rules**
+- Export all variants from the same master file (`LOGO_MASTER.ai`).  
+- Maintain strict spacing and lock ratios in all uses.  
+- Do not add decorative versions or color treatments outside the locked palette without a council vote.
 
 ---
 
-## Typography
-- Primary: **Söhne Breit** (Buch).  
-- Fallback: **Inter** or **Montserrat** for system use only if Söhne unavailable.
+## MASTER RELIC VECTOR
+- **Canvas:** 2000 × 4000 px artboard for relic master (`MASTER_FULL.ai`).  
+- **Metadata:** include `fracture_baseline_px=1940`.  
+- **Required layers:** `MASTER_FULL`, `UPPER_EXPORT`, `LOWER_EXPORT`, `SIGIL_LAYER`, `DIAGRAM_LAYER`, `REGISTRATION_MARKS`, `PRINT_SAFE`, `ACCENTS`.  
+- **Export formats:** AI, SVG, PDF (vector); PNG (300dpi) for proofs.
 
 ---
 
-## Layout & grid principles
-- Generous negative space. Favor centered alignment for canonical artifacts, left alignment for noise (where specified).  
-- Use the same vertical rhythm across digital and print; preserve the canonical fracture baseline for relic assets.
+## TYPOGRAPHY
+- **Primary:** Söhne Breit (Buch).  
+- **Fallback:** Inter (neutral).  
+- **Noise posts & stories:** follow the Top/Mid/Bottom typographic grammar (see [[03_CONTENT/NOISE-STRATEGY]]).
 
 ---
 
-## Print constraints (non-negotiable)
-- **Primary strokes** must render to **≥0.8 mm** at 300dpi.  
-- No hairlines in print; convert fine detail to solid shapes on `PRINT_SAFE` layer.  
-- Registration glyphs (two dots) stored in `REGISTRATION_MARKS` (opacity 8%).  
-- All spot colors and accents must be on separate layers.
+## LAYOUT RULES
+- Story safe area and feed safe area are defined in `LAYOUT-RULES`. Centered compositions are canonical for the relic visuals. Keep generous negative space.
 
 ---
 
-## Files & exports to maintain in repo
-- `1111_MASTER_FULL.ai` (master vector)  
-- `1111_UPPER_TEE_BACK.pdf/png` (tee upper half export)  
-- `1111_CARD_FRONT.pdf/png` (card lower half export)  
-- `LOGO_WORDMARK.svg` / `LOGO_SYMBOL.svg` / `LOGO_TYPEMARK.svg`  
-- `OVERLAY_PROOF.png` (pixel-perfect seam proof — required before production)
+## PRINT RULES (non-negotiable)
+- Primary strokes must render to **≥ 0.8 mm** at 300 DPI.  
+- Convert hairlines or micro hatching into solid vector shapes on the `PRINT_SAFE` layer.  
+- Registration glyphs (two small dots) live in `REGISTRATION_MARKS` with 8% opacity.  
+- Spot accents (Blood Oath Red and Halo Ember Gold) must be on their own layers.
 
-**See:** [[04_DESIGN/RELIC-SWORD]] | [[04_DESIGN/COLOR-PALETTE]] | [[05_DECISIONS/PRODUCTION-SIGNOFF]]
+---
 
-_Signed-off-by: Steve Jobs (persona), Dieter Rams, Hiroshi Fujiwara — 2026-01-20._
+## FILES TO KEEP IN REPO
+- `design/MASTER_FULL.ai` (master relic)  
+- `logo/WORDMARK.svg`, `logo/SYMBOL.svg`, `logo/TYPEMARK.svg`  
+- `exports/UPPER_TEE_BACK_3600x4800.png` (print safe)  
+- `exports/CARD_FRONT_816x1110.pdf` (print safe)  
+- `proofs/OVERLAY_PROOF.png`
+
+**See:** [[04_DESIGN/COLOR-PALETTE]] · [[04_DESIGN/RELIC-SWORD]] · [[03_CONTENT/WEEKLY-STORY-TABLE]]
+
+_Signed-off-by: Council — 2026-01-20._

@@ -6,29 +6,29 @@ locked_date: 2026-01-20
 
 # RELIC 001 — SPECIFICATION & INTENT (LOCKED)
 
-**Canonical object:** straight, archetypal sacred longsword (Type XV–inspired) — intentionally culturally ambiguous.
+**Canonical object:** a straight, archetypal sacred longsword (Type XV–inspired silhouette) — intentionally culturally ambiguous.
 
-**Fracture baseline (locked):** 48.5% of full master height. (Master canvas: height 4000 px → baseline = 1940 px; record in `MASTER_FULL` metadata as `fracture_baseline_px=1940`.)
+**Fracture baseline (locked):** 48.5% of full master height.  
+(Master canvas height = 4000 px → baseline = **1940 px**; set `fracture_baseline_px=1940` in master file metadata.)
 
-## Distribution logic (locked)
-- **Upper half** (handle → fracture) = garment print (TEE) — general run.  
-- **Lower half** (fracture → point) = collectible card / relic token — PO-only collectible and numbered artifact.
+## Distribution & meaning (locked)
+- **Upper half** (handle → fracture) → garment print (TEE) — general edition.  
+- **Lower half** (fracture → point) → collectible card / relic token — PO-only collectible, numbered, and archival.
+
+**What owning Relic 001 implies (locked):**
+- You are recorded as a **Witness** in the Book (waitlist/ledger).  
+- You receive **ritual access**: priority PO invitation + limited listening-room invite.
 
 ## Visual rules
-- The sword silhouette is restrained: clean blade, simple guard, minimal crown motif integrated into guard/pommel (partially broken).  
-- Fracture is a clean, geometric diagonal cut — not ragged, not decorative.  
-- Sigils should be geometric derivatives of the fracture geometry (one sigil per drop). Sigils are small and tone-on-tone.
+- Blade: restrained, symmetrical silhouette with a minimal crown motif integrated into the guard/pommel (partially broken).  
+- Fracture: a single clean diagonal cut at the baseline. It is geometric and controlled — no ragged forms.  
+- Sigil: geometric derivative of fracture geometry. Small, tone-on-tone; one sigil per drop.
 
-## Meaning of ownership (locked)
-Owning Relic 001 implies:
-- You are a **witness** — a numbered token is recorded in the Book.  
-- You receive **ritual access** — priority PO invitation and limited listening-room access.
+## Production requirements
+- Provide `MASTER_FULL` AI/SVG vector & `PRINT_SAFE` variants.  
+- Generate `UPPER_EXPORT` (for TEE) and `LOWER_EXPORT` (for CARD) assets.  
+- **Overlay proof** (`OVERLAY_PROOF.png`) must demonstrate pixel-perfect seam alignment and be signed by the production sign-off panel before any run.
 
-## Export & production requirements
-- Provide `MASTER_FULL` AI/SVG vector with required layers (see [[04_DESIGN/DESIGN-SYSTEM]]).  
-- Produce `UPPER_EXPORT` and `LOWER_EXPORT` files. Ensure `PRINT_SAFE` variants exist (no hairlines).  
-- Overlay proof (`OVERLAY_PROOF.png`) must be generated and signed before any production.
+**See:** [[04_DESIGN/DESIGN-SYSTEM]] · [[06_OPERATIONS/MERCH-LOGIC]] · [[05_DECISIONS/PRODUCTION-SIGNOFF]]
 
-**See also:** [[06_OPERATIONS/MERCH-LOGIC]] | [[05_DECISIONS/PRODUCTION-SIGNOFF]]
-
-_Signed-off-by: Carl Jung, Yohji Yamamoto, Jony Ive — 2026-01-20._
+_Signed-off-by: Council — 2026-01-20._
