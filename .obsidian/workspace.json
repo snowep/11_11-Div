@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "975572aedbc0920d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d278465ec85a14e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9613be3f11770d2",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "9275d4f3ab7b5951",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
+          },
+          {
+            "id": "0227bcc3a6353bc1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4fa5985555c4c64",
+    "type": "split",
+    "children": [
+      {
+        "id": "502fd40dd5b1728b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50de792deb49747a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "76e51b3e592b4c71",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "030e57fbba0efce6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c76182700a6c1492",
+    "type": "split",
+    "children": [
+      {
+        "id": "425703b435ec50ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e209c881392bb06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03_CONTENT/WEEK-TIMELINE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for WEEK-TIMELINE"
+            }
+          },
+          {
+            "id": "101697e2d464c5cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "217fc6574a5a20d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ed39003a52219c34",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a9613be3f11770d2",
+  "lastOpenFiles": [
+    "03_CONTENT/WEEKLY-STORY-TABLE.md",
+    "Untitled.base",
+    "03_CONTENT/WEEK-TIMELINE.md",
+    "03_CONTENT/CONTENT-PHILOSOPHY.md",
+    "03_CONTENT/POST-LOG.md",
+    "03_CONTENT/NOISE-STRATEGY.md",
+    "05_DECISIONS/LOCKED-DECISIONS.md",
+    "02_PHASES/CURRENT-PHASE.md",
+    "02_PHASES/SESSION-ZERO.md",
+    "07_COUNCIL/STEVE-JOBS.md",
+    "07_COUNCIL/00_COUNCIL-INDEX.md",
+    "07_COUNCIL/TAKASHI-MURAKAMI.md",
+    "Steve_Jobs.md",
+    "00_INDEX/START-HERE.md",
+    "07_COUNCIL/COUNCIL-OVERVIEW.md",
+    "07_COUNCIL/AXIS-CULTURE.md",
+    "07_COUNCIL/BRUCE-LEE.md",
+    "07_COUNCIL/PHARRELL-WILLIAMS.md",
+    "07_COUNCIL/KRS-ONE.md",
+    "07_COUNCIL/SHAWN-STUSSY.md",
+    "07_COUNCIL/SHIGERU-BAN.md",
+    "07_COUNCIL/AXIS-CRAFT.md",
+    "07_COUNCIL/JONY-IVE.md",
+    "07_COUNCIL/LEONARDO-DA-VINCI.md",
+    "07_COUNCIL/TADAO-ANDO.md",
+    "07_COUNCIL/DIETER-RAMS.md",
+    "07_COUNCIL",
+    "99_ARCHIVE",
+    "06_OPERATIONS",
+    "05_DECISIONS",
+    "04_DESIGN",
+    "03_CONTENT",
+    "02_PHASES",
+    "01_CODEX",
+    "00_INDEX"
+  ]
+}
