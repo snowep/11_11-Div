@@ -11,26 +11,32 @@
             "id": "a9613be3f11770d2",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "03_CONTENT/NOISE-STRATEGY.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "NOISE-STRATEGY"
             }
           },
           {
             "id": "0227bcc3a6353bc1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "05_DECISIONS/LOCKED-DECISIONS.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "LOCKED-DECISIONS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,15 +184,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "a9613be3f11770d2",
+  "active": "0227bcc3a6353bc1",
   "lastOpenFiles": [
-    "03_CONTENT/WEEKLY-STORY-TABLE.md",
-    "Untitled.base",
+    "06_OPERATIONS/MERCH-LOGIC.md",
+    "05_DECISIONS/AFTER-W10-PLAN.md",
+    "05_DECISIONS/DECISION-NO-PRODUCT-SHOW.md",
+    "05_DECISIONS/LOCKED-DECISIONS.md",
+    "05_DECISIONS/DECISION-RELIC-SPLIT.md",
+    "03_CONTENT/WAITLIST-MECHANICS.md",
+    "03_CONTENT/NOISE-STRATEGY.md",
     "03_CONTENT/WEEK-TIMELINE.md",
+    "03_CONTENT/WEEKLY-STORY-TABLE.md",
+    "04_DESIGN/RELIC-SWORD.md",
+    "04_DESIGN/COLOR-PALETTE.md",
+    "04_DESIGN/DESIGN-SYSTEM.md",
+    "01_CODEX/VALUES.md",
+    "01_CODEX/MISSION.md",
+    "Untitled.base",
     "03_CONTENT/CONTENT-PHILOSOPHY.md",
     "03_CONTENT/POST-LOG.md",
-    "03_CONTENT/NOISE-STRATEGY.md",
-    "05_DECISIONS/LOCKED-DECISIONS.md",
     "02_PHASES/CURRENT-PHASE.md",
     "02_PHASES/SESSION-ZERO.md",
     "07_COUNCIL/STEVE-JOBS.md",
@@ -197,15 +213,6 @@
     "07_COUNCIL/COUNCIL-OVERVIEW.md",
     "07_COUNCIL/AXIS-CULTURE.md",
     "07_COUNCIL/BRUCE-LEE.md",
-    "07_COUNCIL/PHARRELL-WILLIAMS.md",
-    "07_COUNCIL/KRS-ONE.md",
-    "07_COUNCIL/SHAWN-STUSSY.md",
-    "07_COUNCIL/SHIGERU-BAN.md",
-    "07_COUNCIL/AXIS-CRAFT.md",
-    "07_COUNCIL/JONY-IVE.md",
-    "07_COUNCIL/LEONARDO-DA-VINCI.md",
-    "07_COUNCIL/TADAO-ANDO.md",
-    "07_COUNCIL/DIETER-RAMS.md",
     "07_COUNCIL",
     "99_ARCHIVE",
     "06_OPERATIONS",
