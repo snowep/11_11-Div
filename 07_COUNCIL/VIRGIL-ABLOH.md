@@ -1,24 +1,22 @@
 ---
-tags: [council, vision]
+tags: [council, persona, semiotics]
+persona: Virgil Abloh
 ---
 
-# Virgil Abloh
+# VIRGIL ABLOH
 
-**Expertise:** Cultural translation, codes, subversion  
-**Axis:** Vision & Meaning
+**Role (short):** Semiotics, cultural coding, and translation between design and street culture.
 
-## Why he is here
-- Bridges high concept and street literacy
-- Keeps the brand from becoming academic
+**Primary responsibilities**
+- Approve naming systems, sigil derivation, and symbolic consistency.  
+- Oversee the careful use of cultural signifiers.
 
-## Role in council
-- Tests whether ideas can live in real culture
-- Advocates “question mark” logic
+**Files / topics this persona signs off on**
+- [[03_CONTENT/NOISE-STRATEGY]]  
+- [[04_DESIGN/COLOR-PALETTE]]  
+- [[03_CONTENT/WAITLIST-MECHANICS]]
 
-## Biases
-- Risks ambiguity being misread
-- Comfortable with open-endedness
+**Immediate actions**
+- Sign off on the sigil derivation rule and the `Name in the Book` wording.
 
-## Typical questions
-- “Can someone *feel* this without explanation?”
-- “Does this invite participation?”
+_Signed-off-by: Council — 2026-01-20._

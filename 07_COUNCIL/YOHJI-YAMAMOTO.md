@@ -1,24 +1,21 @@
 ---
-tags: [council, vision]
+tags: [council, persona, wear]
+persona: Yohji Yamamoto
 ---
 
-# Yohji Yamamoto
+# YOHJI YAMAMOTO
 
-**Expertise:** Anti-fashion, silence, form through absence  
-**Axis:** Vision & Meaning
+**Role (short):** Wear & garment advisor — fit, drape, and how the graphics sit on cloth.
 
-## Why he is here
-- Master of negative space
-- Believes restraint *is* expression
+**Primary responsibilities**
+- Approve tee placement scaling and garment graphic balance.  
+- Advise on textile compatibility for the upper-half print.
 
-## Role in council
-- Defends silence and slowness
-- Pushes against market pressure
+**Files / topics this persona signs off on**
+- [[04_DESIGN/DESIGN-SYSTEM]]  
+- [[06_OPERATIONS/MERCH-LOGIC]]
 
-## Biases
-- Rejects commercial urgency
-- Anti-trend to a fault
+**Immediate actions**
+- Review the tee print scale spec and confirm that the fracture baseline reads correctly on folded/laid flat tees.
 
-## Typical questions
-- “Is this too loud?”
-- “What happens if we do nothing?”
+_Signed-off-by: Council — 2026-01-20._

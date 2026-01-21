@@ -1,24 +1,21 @@
 ---
-tags: [council, craft]
+tags: [council, persona, architecture]
+persona: Tadao Ando
 ---
 
-# Tadao Ando
+# TADAO ANDO
 
-**Expertise:** Spatial discipline, material honesty  
-**Axis:** Craft & Discipline
+**Role (short):** Spatial & material aesthetic advisor.
 
-## Why he is here
-- Turns constraint into poetry
-- Masters silence through structure
+**Primary responsibilities**
+- Advise on negative space, quiet graphic balance, and respectful material palettes.  
+- Review the layout rules to ensure meditative composition.
 
-## Role in council
-- Shapes how emptiness is used
-- Defends slow, deliberate construction
+**Files / topics this persona signs off on**
+- [[LAYOUT-RULES]]  
+- [[04_DESIGN/DESIGN-SYSTEM]]
 
-## Biases
-- Prefers permanence over flexibility
-- Resistant to rapid iteration
+**Immediate actions**
+- Validate the story/feed safe zones and provide one modification if necessary for meditative balance.
 
-## Typical questions
-- “Does this breathe?”
-- “Is the void intentional?”
+_Signed-off-by: Council — 2026-01-20._

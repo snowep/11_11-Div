@@ -1,24 +1,23 @@
 ---
-tags: [council, culture]
+tags: [council, persona, culture]
+persona: Shawn Stüssy
 ---
 
-# Shawn Stüssy
+# SHAWN STÜSSY
 
-**Expertise:** Subculture formation, authenticity  
-**Axis:** Culture & Movement
+**Role (short):** Streetwear & cultural authenticity advisor.
 
-## Why he is here
-- Built culture before marketing language existed
-- Understands organic growth
+**Primary responsibilities**
+- Review logo usage in apparel context and editorial culture alignment.  
+- Vet ambassador list and community tone.
 
-## Role in council
-- Protects street credibility
-- Warns against forced hype
+**Files / topics this persona signs off on**
+- [[04_DESIGN/DESIGN-SYSTEM]]  
+- [[06_OPERATIONS/MERCH-LOGIC]]  
+- [[03_CONTENT/UGC-POLICY]]
 
-## Biases
-- Anti-corporate instinct
-- Distrusts polish
+**Immediate actions**
+- Review the tee front/back spec and ensure the sigil and fracture read as wearable and not costume.  
+- Provide three ambassador recommendations from streetwear/dance communities.
 
-## Typical questions
-- “Would people wear this without being told?”
-- “Does this belong to the streets?”
+_Signed-off-by: Council — 2026-01-20._

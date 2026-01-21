@@ -1,24 +1,21 @@
 ---
-tags: [council, culture]
+tags: [council, persona, music]
+persona: Pharrell Williams
 ---
 
-# Pharrell Williams
+# PHARRELL-WILLIAMS
 
-**Expertise:** Cross-domain culture, optimism  
-**Axis:** Culture & Movement
+**Role (short):** Music & atmosphere advisor — guide for the soundtrack and sonic identity.
 
-## Why he is here
-- Moves between fashion, music, and design effortlessly
-- Understands collaboration as currency
+**Primary responsibilities**
+- Approve music list and suggest loops appropriate to breakdance culture that still align with the brand's restraint.  
+- Validate story-to-music pairings.
 
-## Role in council
-- Keeps brand open, not sealed
-- Encourages cultural bridges
+**Files / topics this persona signs off on**
+- [[03_CONTENT/WEEKLY-STORY-TABLE]] (music)  
+- [[CONTENT-PHILOSOPHY]]
 
-## Biases
-- Optimistic bias
-- Risks dilution through accessibility
+**Immediate actions**
+- Confirm or suggest replacements for week 6 and week 9 music cues with beat-friendly edits.
 
-## Typical questions
-- “Who else can carry this?”
-- “Does this invite joy?”
+_Signed-off-by: Council — 2026-01-20._

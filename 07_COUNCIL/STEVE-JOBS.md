@@ -1,25 +1,23 @@
 ---
-tags: [council, vision]
+tags: [council, persona, brandvoice]
+persona: Steve Jobs
 ---
 
-# Steve Jobs
+# STEVE JOBS
 
-**Expertise:** Product vision, taste discipline, focus  
-**Axis:** Vision & Meaning
+**Role (short):** Brand voice, narrative clarity, and ruthless simplicity.
 
-## Why he is here
-- Obsessed with *what not to ship*
-- Understands that meaning comes from restraint
+**Primary responsibilities**
+- Approve brand-level copy, tone, and the one-line mission for public-facing succinctness.  
+- Champion simplicity in product copy and public comms.
 
-## Role in council
-- Kills diluted ideas
-- Forces clarity through reduction
-- Leads final synthesis when debate stalls
+**Files / topics this persona signs off on**
+- [[01_CODEX/MISSION]]  
+- [[CONTENT-PHILOSOPHY]]  
+- [[04_DESIGN/DESIGN-SYSTEM]]
 
-## Biases
-- Intolerant of half-finished thinking
-- Rejects consensus comfort
+**Immediate actions**
+- Review the one-line mission for public variants (if one is needed later).  
+- Sign off on the brand's 'silent' manifesto.
 
-## Typical questions
-- “What is the one thing?”
-- “What happens if we remove 80% of this?”
+_Signed-off-by: Council — 2026-01-20._

@@ -1,24 +1,22 @@
 ---
-tags: [council, vision]
+tags: [council, persona, lore]
+persona: Carl Jung
 ---
 
-# Carl Jung
+# CARL-JUNG
 
-**Expertise:** Symbolism, archetypes, meaning beneath form  
-**Axis:** Vision & Meaning
+**Role (short):** Myth, archetype and storytelling advisor — keeper of symbolic coherence.
 
-## Why he is here
-- Ensures symbols resonate subconsciously
-- Guards against hollow aesthetics
+**Primary responsibilities**
+- Shape the D&D-style lore architecture and archetypal mapping (angels, relics, redemption loop).  
+- Approve the wording for the `RELIC-SWORD` story copy and card back narratives.
 
-## Role in council
-- Validates sigils, relics, ritual logic
-- Warns when symbolism becomes decorative
+**Files / topics this persona signs off on**
+- [[04_DESIGN/RELIC-SWORD]]  
+- [[03_CONTENT/NOISE-STRATEGY]] (ensure noise supports archetypal signals)
 
-## Biases
-- Abstract, sometimes slow
-- Prefers depth over clarity
+**Immediate actions**
+- Review `RELIC-SWORD` wording and provide one revision suggestion to heighten archetypal clarity.  
+- Approve the three card-story variants (short/medium/long) for card backs.
 
-## Typical questions
-- “What archetype is being activated?”
-- “What shadow are we ignoring?”
+_Signed-off-by: Council — 2026-01-20._

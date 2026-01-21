@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_DECISIONS/DECISION-RELIC-SPLIT.md",
+                "file": "07_COUNCIL/YOHJI-YAMAMOTO.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DECISION-RELIC-SPLIT"
+              "title": "YOHJI-YAMAMOTO"
             }
           }
         ]
@@ -171,6 +171,21 @@
   },
   "active": "a9613be3f11770d2",
   "lastOpenFiles": [
+    "07_COUNCIL/VIRGIL-ABLOH.md",
+    "07_COUNCIL/TAKASHI-MURAKAMI.md",
+    "07_COUNCIL/TADAO-ANDO.md",
+    "07_COUNCIL/STEVE-JOBS.md",
+    "07_COUNCIL/SIMONE-WEIL.md",
+    "07_COUNCIL/SHIGERU-BAN.md",
+    "07_COUNCIL/SHAWN-STUSSY.md",
+    "07_COUNCIL/PHARRELL-WILLIAMS.md",
+    "07_COUNCIL/LEONARDO-DA-VINCI.md",
+    "07_COUNCIL/KRS-ONE.md",
+    "07_COUNCIL/JONY-IVE.md",
+    "07_COUNCIL/DIETER-RAMS.md",
+    "07_COUNCIL/CARL-JUNG.md",
+    "07_COUNCIL/BRUCE-LEE.md",
+    "05_DECISIONS/DECISION-RELIC-SPLIT.md",
     "05_DECISIONS/DECISION-NO-PRODUCT-SHOW.md",
     "03_CONTENT/NOISE-STRATEGY.md",
     "03_CONTENT/WEEKLY-STORY-TABLE.md",
@@ -183,20 +198,6 @@
     "03_CONTENT/WEEK-TIMELINE.md",
     "05_DECISIONS/LOCKED-DECISIONS.md",
     "06_OPERATIONS/MERCH-LOGIC.md",
-    "05_DECISIONS/AFTER-W10-PLAN.md",
-    "05_DECISIONS/DECISION-RELIC-SPLIT.md",
-    "03_CONTENT/WAITLIST-MECHANICS.md",
-    "04_DESIGN/COLOR-PALETTE.md",
-    "03_CONTENT/CONTENT-PHILOSOPHY.md",
-    "03_CONTENT/POST-LOG.md",
-    "02_PHASES/CURRENT-PHASE.md",
-    "02_PHASES/SESSION-ZERO.md",
-    "07_COUNCIL/STEVE-JOBS.md",
-    "07_COUNCIL/TAKASHI-MURAKAMI.md",
-    "Steve_Jobs.md",
-    "00_INDEX/START-HERE.md",
-    "07_COUNCIL/COUNCIL-OVERVIEW.md",
-    "07_COUNCIL/AXIS-CULTURE.md",
     "07_COUNCIL",
     "99_ARCHIVE",
     "06_OPERATIONS",

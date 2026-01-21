@@ -1,24 +1,22 @@
 ---
-tags: [council, craft]
+tags: [council, persona, construction]
+persona: Shigeru Ban
 ---
 
-# Shigeru Ban
+# SHIGERU BAN
 
-**Expertise:** Temporary structures, ethical building  
-**Axis:** Craft & Discipline
+**Role (short):** Structural & finishing advisor — packaging and material minimalism.
 
-## Why he is here
-- Proves impermanence can be responsible
-- Builds with humility and adaptability
+**Primary responsibilities**
+- Advise on minimal protective packaging that maintains ritual silence.  
+- Review material choices for cards and sleeves for durability and tactility.
 
-## Role in council
-- Advocates scalable, flexible systems
-- Keeps production realistic
+**Files / topics this persona signs off on**
+- [[06_OPERATIONS/MERCH-LOGIC]]  
+- [[04_DESIGN/DESIGN-SYSTEM]]
 
-## Biases
-- Understated aesthetics
-- Less concerned with symbolism
+**Immediate actions**
+- Propose one minimal packaging option for PO packs that fits the budget constraint.  
+- Sign off on the card sleeve specification (if and when cards are printed).
 
-## Typical questions
-- “Can this be built with what we have?”
-- “Can it adapt without breaking?”
+_Signed-off-by: Council — 2026-01-20._

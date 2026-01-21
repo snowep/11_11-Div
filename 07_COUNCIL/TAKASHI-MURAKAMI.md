@@ -1,24 +1,21 @@
 ---
-tags: [council, culture]
+tags: [council, persona, visual-culture]
+persona: Takashi Murakami
 ---
 
-# Takashi Murakami
+# TAKASHI MURAKAMI
 
-**Expertise:** Pop subversion, surface vs depth  
-**Axis:** Culture & Movement
+**Role (short):** Contemporary visual culture & color use advisor.
 
-## Why he is here
-- Blurs high art and mass culture
-- Understands commercial play without shame
+**Primary responsibilities**
+- Keep an eye on the boundary between minimal ritual and pop-cultural noise.  
+- Provide visual critique to ensure the brand never slips into pastiche.
 
-## Role in council
-- Tests elasticity of seriousness
-- Allows controlled irony
+**Files / topics this persona signs off on**
+- [[04_DESIGN/DESIGN-SYSTEM]]  
+- [[04_DESIGN/COLOR-PALETTE]]
 
-## Biases
-- Comfortable with spectacle
-- Risks overexposure
+**Immediate actions**
+- Review the charcoal/bone palette application and confirm that Blood Oath Red usage is restrained.
 
-## Typical questions
-- “Can this survive repetition?”
-- “Is the surface lying or revealing?”
+_Signed-off-by: Council — 2026-01-20._

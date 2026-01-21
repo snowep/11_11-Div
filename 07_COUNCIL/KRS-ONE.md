@@ -1,24 +1,22 @@
 ---
-tags: [council, culture]
+tags: [council, persona, voice]
+persona: KRS-ONE
 ---
 
-# KRS-One
+# KRS-ONE
 
-**Expertise:** Knowledge culture, discipline through art  
-**Axis:** Culture & Movement
+**Role (short):** Rhythm & voice advisor — pacing, cadence and spoken rhythm for content.
 
-## Why he is here
-- Represents culture as education
-- Embodies responsibility in expression
+**Primary responsibilities**
+- Advise musical cues and rhythmic text structures.  
+- Help draft short voice fragments for posts and story cadence.
 
-## Role in council
-- Keeps the message grounded
-- Ensures culture isn’t exploited
+**Files / topics this persona signs off on**
+- [[03_CONTENT/WEEKLY-STORY-TABLE]] (music cues)  
+- [[CONTENT-PHILOSOPHY]]
 
-## Biases
-- Didactic at times
-- Intolerant of ignorance
+**Immediate actions**
+- Validate the week-by-week music map (ensure break/beat suitability).  
+- Suggest two alternative music cues for week 6 and week 9.
 
-## Typical questions
-- “What does this teach?”
-- “Are we respecting the roots?”
+_Signed-off-by: Council — 2026-01-20._

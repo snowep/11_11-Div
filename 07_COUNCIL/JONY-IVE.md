@@ -1,24 +1,23 @@
 ---
-tags: [council, craft]
+tags: [council, persona, engineering]
+persona: Jony Ive
 ---
 
-# Jony Ive
+# JONY-IVE
 
-**Expertise:** Precision, material refinement  
-**Axis:** Craft & Discipline
+**Role (short):** Production & engineering lead — manufacturability and tolerances.
 
-## Why he is here
-- Obsessed with touch, weight, and finish
-- Knows how objects communicate through feel
+**Primary responsibilities**
+- Define production sign-off criteria and overlay proof process.  
+- Approve vendor samples and QA rules.
 
-## Role in council
-- Refines final form
-- Ensures craft supports meaning
+**Files / topics this persona signs off on**
+- [[05_DECISIONS/PRODUCTION-SIGNOFF]]  
+- [[04_DESIGN/RELIC-SWORD]]  
+- [[06_OPERATIONS/MERCH-LOGIC]]
 
-## Biases
-- Perfectionist
-- Risks over-polishing
+**Immediate actions**
+- Produce the `PRODUCTION-SIGNOFF-CHECKLIST.md` (detailed) and attach to the relic spec.  
+- Liaise with any local printer contact for verification steps (even if production is delayed).
 
-## Typical questions
-- “How does it feel in the hand?”
-- “Does the form explain itself?”
+_Signed-off-by: Council — 2026-01-20._

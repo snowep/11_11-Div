@@ -1,24 +1,22 @@
 ---
-tags: [council, craft]
+tags: [council, persona, design]
+persona: Dieter Rams
 ---
 
-# Dieter Rams
+# DIETER-RAMS
 
-**Expertise:** Industrial design ethics, reduction  
-**Axis:** Craft & Discipline
+**Role (short):** Minimalism & functional design advisor — keep the work honest and necessary.
 
-## Why he is here
-- Established the moral foundation of modern minimalism
-- Believes design is responsibility, not decoration
+**Primary responsibilities**
+- Set minimal design constraints and production-friendly rules.  
+- Approve `DESIGN-SYSTEM` and `LAYOUT-RULES`.
 
-## Role in council
-- Guards against unnecessary complexity
-- Forces justification for every element
+**Files / topics this persona signs off on**
+- [[04_DESIGN/DESIGN-SYSTEM]]  
+- [[LAYOUT-RULES]]
 
-## Biases
-- Suspicious of novelty
-- Will sacrifice excitement for clarity
+**Immediate actions**
+- Verify print stroke minimums and sign-off on `PRINT_SAFE` rules.  
+- Confirm the typographic scale for the noise systems.
 
-## Typical questions
-- “Is this useful?”
-- “What can be removed without loss?”
+_Signed-off-by: Council — 2026-01-20._

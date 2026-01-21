@@ -1,24 +1,24 @@
 ---
-tags: [council, vision]
+tags: [council, persona, ethics]
+persona: Simone Weil
 ---
 
-# Simone Weil
+# SIMONE WEIL
 
-**Expertise:** Attention, discipline, spiritual rigor  
-**Axis:** Vision & Meaning
+**Role (short):** Ethics & religious-sensitivity advisor.
 
-## Why she is here
-- Guards sincerity
-- Opposes manipulation disguised as meaning
+**Primary responsibilities**
+- Ensure all public content adheres to the brand policy about religious/biblical hints (implicit only).  
+- Sign off on any copy that could be interpreted as doctrinal.
 
-## Role in council
-- Ethical tension checker
-- Ensures silence is not deceit
+**Files / topics this persona signs off on**
+- [[01_CODEX/MISSION]]  
+- [[01_CODEX/VALUES]]  
+- [[01_CODEX/RELIGIOUS-HINTS]] (if present)  
+- [[03_CONTENT/WAITLIST-MECHANICS]]
 
-## Biases
-- Harsh on compromise
-- Morally demanding
+**Immediate actions**
+- Review the `RELIC-SWORD` back story and confirm the public copy is oblique and non-doctrinal.  
+- Approve the waitlist privacy copy.
 
-## Typical questions
-- “Is this honest?”
-- “Who does this serve?”
+_Signed-off-by: Council — 2026-01-20._
